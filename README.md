@@ -1,1 +1,2 @@
 # Simba-ai-assistant
+The ai assistant program named Simba is designed perform various tasks based on voice commands provided by the user. This program uses SpeechRecognition library to listen to voice commands and initializes a speech engine using pyttsx3 to respond to the queries. It is able to respond to simple commands such as 'say' to repeat after the user's phrases, 'go to ...' to open requested URLS in google chrome web browser, and 'wiki' to search and retrieve requested queries from the wikipedia database. 
